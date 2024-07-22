@@ -1,3 +1,5 @@
+<img src=".org/org.png" style="width:24%" alt="org" /><img src=".bot/bot.png" style="width:24%" alt="bot" />
+
 <details>
 <summary>
     
