@@ -1,4 +1,4 @@
-<img src=".org/org.png" style="width:24%" alt="org" /><img src=".bot/bot.png" style="width:24%" alt="bot" /><img src=".disc/discord.png" style="width:24%" alt="discord" />
+<!--Generated Line--><img src=".org/org.png" style="width:24%" alt="org" /><img src=".bot/bot.png" style="width:24%" alt="bot" /><img src=".disc/discord.png" style="width:24%" alt="discord" />
 
 <details>
 <summary>
