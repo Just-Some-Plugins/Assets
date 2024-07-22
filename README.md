@@ -1,4 +1,9 @@
-## Icons Guide
+<details>
+<summary>
+    
+# Icons Guide
+
+</summary>
 
 1. Make sure you have `Effects > Object > Apply Mask`, otherwise get it from [here](https://forums.getpaint.net/topic/121343-boltbaits-gpu-accelerated-plugin-pack-for-paintnet-v50-updated-2024-04-29/).
 1. [Find an icon](https://pictogrammers.com/library/mdi/) and [save it as a paint.net shape](https://forums.getpaint.net/topic/116525-material-design-icon-shapes-in-paintnet/).
@@ -34,3 +39,5 @@
     - Algorithm: `Octree`
     - Dithering: `7`
     - Transparency: `44`
+
+</details>
