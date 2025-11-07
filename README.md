@@ -18,7 +18,7 @@
 1. Make sure the `Base` layer at the top is on.
 1. Use the Magic Wand to select the exterior of your icon.
     - Tolerance: `80`
-1. Go to the `Base` Layer, Set the Wand's mode to `Intersect` and select the interior of the Base.
+1. Go to the `Base` Layer, Set the Wand's mode to `Intersect` and select the exterior of the Base.
 1. Create a New Layer above your Icon called `<your abbreviation> Mask`.
 1. Fill your Selection.
 1. Create a New Layer beneath your Icon called `<your abbreviation> Color`.
@@ -33,11 +33,10 @@
     - Align: `Right`
 1. Move the grabber until you are at X: `256`.
 1. Set your Text to be Center-Aligned.
-1. Adjust your Text up/down until centered vertically within the Base.
-1. Create a folder in this repo titled `<your abbreviation>` in all caps.
-1. Delete layers belonging to other abbrevations, but not the utility layers like `zColor Streak`.
-1. Save the `.pdn` of your project into your folder with `<your abbreviation>` in all caps as the file name.
-1. Save As a `.png` of your project into the folder with `icon` as the file name.
+2. Adjust your Text up/down until centered vertically within the Base.
+3. Delete layers belonging to other abbrevations, but not the utility layers like `zColor Streak`.
+4. Save the `.pdn` of your project into your folder with `<your abbreviation>` in all caps as the file name, in the `plugins` folder.
+5. Save As a `.png` of your project into the folder with `icon` as the file name.
     - Flatten to a `.png`
     - Bit Depth: `Auto`
     - Algorithm: `Octree`
