@@ -1,5 +1,5 @@
 <!--Generated Line-->
-<img src=".org/org.png" style="width:24%" alt="org" /><img src=".bot/bot.png" style="width:24%" alt="bot" /><img src=".disc/discord.png" style="width:24%" alt="discord" /><img src="plugins/JCS/JCS.png" style="width:24%" alt="JCS" />
+<img src=".org/org.png" style="width:24%" alt="org" /><img src=".bot/bot.png" style="width:24%" alt="bot" /><img src=".disc/discord.png" style="width:24%" alt="discord" /><img src="plugins/JCS.png" style="width:24%" alt="JCS" />
 <!--/Generated Line-->
 
 <details>
